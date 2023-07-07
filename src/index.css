@@ -1,0 +1,11 @@
+body {
+    background-image: url("../public/images/main-bg.png"); 
+    background-color: #2991F0 !important;
+    font-family: "Poppins",Helvetica,sans-serif !important;
+    background-attachment:  fixed;
+}
+.nav-border{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+    
