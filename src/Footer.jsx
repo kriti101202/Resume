@@ -15,9 +15,9 @@ function Footer(){
          </Col>
         <Col xs={12} sm={12} md={6} className="text-center">
             <div>
-                <a  className="link" href="https://github.com/kriti101202" target="_blank">Github</a>
-                <a  className="link" href="https://www.linkedin.com/in/kritika-agrawal-09999b223/" target="_blank">LinkedIn</a>
-                <a  className="link" href="https://www.instagram.com/kriti.__.ag/" target="_blank">Instagram</a>
+                <a  className="link" href="https://github.com/kriti101202" target="_blank" rel="noreferrer">Github</a>
+                <a  className="link" href="https://www.linkedin.com/in/kritika-agrawal-09999b223/" target="_blank" rel="noreferrer" >LinkedIn</a>
+                <a  className="link" href="https://www.instagram.com/kriti.__.ag/" target="_blank" rel="noreferrer">Instagram</a>
             </div>
             </Col> 
             <Col xs={12} sm={12} md={3} className="text-center">
