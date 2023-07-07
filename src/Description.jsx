@@ -25,7 +25,7 @@ function Description(){
         download="RESUME"
         target="_blank"
         rel="noreferrer">
-        <Button variant="outline-primary rounded-pill detail px-3 text-white">Download CV</Button>{' '}
+        <Button variant="outline-primary detail px-3 text-white">Download CV</Button>{' '}
         </a>
         <Link className='text-decoration-none' to="/Contact">
         <Button href='/contact' variant="outline-light detail rounded-pill px-3">Contact</Button>{' '}
